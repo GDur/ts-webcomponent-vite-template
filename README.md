@@ -1,3 +1,11 @@
 # ts-webcomponent-vite-template
 
-test
+## develop
+
+> npm i
+> npm start
+
+## build
+
+> npm i
+> npm run build

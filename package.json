@@ -1,0 +1,32 @@
+{
+  "name": "vite-typescript-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite --port 3001 --open",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.2",
+    "vite": "^3.1.0",
+    "vite-plugin-compression": "^0.5.1"
+  },
+  "dependencies": {
+    "@dimforge/rapier2d-compat": "^0.9.0",
+    "@fontsource/material-icons": "^4.5.4",
+    "@fontsource/quicksand": "^4.5.10",
+    "@math.gl/core": "^3.6.3",
+    "@pixi/sound": "^4.3.0",
+    "@tweakpane/core": "^1.1.0",
+    "@vaadin/router": "^1.7.4",
+    "pixi-viewport": "^4.35.1",
+    "pixi-virtual-joystick": "^0.4.1",
+    "pixi.js": "^6.5.2",
+    "sass": "^1.54.8",
+    "tweakpane": "^3.1.0"
+  },
+  "prettier": {
+    "semi": false
+  }
+}
