@@ -13,7 +13,7 @@ class HomePage extends HTMLElement {
           Welcome to the home page.
 
           <br />
-          <a href="/games/pong/123123" class="pong-starter">start pong game</a>
+          <a href="/games/pong/123123" class="pong-starter">go to test page</a>
         </div>
       </div>`
   }
